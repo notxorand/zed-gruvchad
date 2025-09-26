@@ -1,0 +1,7 @@
+id = "zed-gruvchad"
+name = "Gruvchad"
+version = "0.0.1"
+schema_version = 1
+authors = ["ewan <ewan@s3n.xyz>"]
+description = "Gruvchad theme from NvChad."
+repository = "https://github.com/hey-ewan/zed-gruvchad"
